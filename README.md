@@ -3,5 +3,5 @@
  
  # Ekran Görüntüleri
  
- ![localhost_59300_(iPhone 6_7_8)](https://user-images.githubusercontent.com/14194362/146978821-65924293-3bec-4c42-97b6-d2a69d9e1239.png)
- ![localhost_59300_(iPhone 6_7_8) (1)](https://user-images.githubusercontent.com/14194362/146978831-4a4472cb-6969-439f-bfd4-1b084ffbe0e1.png)
+ ![merge_from_ofoct](https://user-images.githubusercontent.com/14194362/146979228-b79a75f3-9524-4e43-8ddb-940b8b23d940.jpg)
+
